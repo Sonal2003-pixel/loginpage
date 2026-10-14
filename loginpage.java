@@ -19,4 +19,8 @@ class login
     {
         System.out.println("otp feature added");
     }
+    void phone()
+    {
+        System.out.println("phone feature added")
+    }
 }
