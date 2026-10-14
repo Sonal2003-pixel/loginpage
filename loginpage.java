@@ -4,5 +4,13 @@ class login
     {
         System.out.println("Login page")
     }
+    void display()
+    {
+
+    }
+    void otp
+    {
+        System.out.println("otp feature added")
+    }
 
 }
