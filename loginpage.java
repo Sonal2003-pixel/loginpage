@@ -2,10 +2,21 @@ class login
 {
     public static void main(String [] args)
     {
-        System.out.println("Login page")
+        System.out.println("Login page");
     }
-     void sendemail()
-     {
-        System.out.println("Notification is added")
-     }
+
+    void sendemail()
+    {
+        System.out.println("Notification is added");
+    }
+
+    void display()
+    {
+        // Add implementation here if needed
+    }
+
+    void otp()
+    {
+        System.out.println("otp feature added");
+    }
 }
